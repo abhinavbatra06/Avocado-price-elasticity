@@ -24,6 +24,5 @@ Key columns in the dataset:
 - 4046, 4225, 4770: Sales volumes for specific PLU codes.
 
 Acknowledgements
-- The dataset was compiled from publicly available data provided by the Hass Avocado Board. For more details, visit Hass Avocado Board's website.
-- [Kaggle link](https://www.kaggle.com/datasets/neuromusic/avocado-prices)
+- The dataset was compiled from publicly available data provided by the Hass Avocado Board. For more details, visit Hass Avocado Board's website and [Kaggle link](https://www.kaggle.com/datasets/neuromusic/avocado-prices)
   
